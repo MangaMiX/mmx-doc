@@ -1,0 +1,2 @@
+# mmx-doc
+MangaMix documentation
